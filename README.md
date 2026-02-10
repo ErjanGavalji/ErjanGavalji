@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=ErjanGavalji)
 
 I'm happy to help if you need assistance. I have a strong background in software development and
-DevOps, with a current focus on DevOps practices. My primary areas of expertise include JavaScript,
-Docker, Kubernetes, and shell scripting. I offer my experience in C# as well (though a bit rusty).
+DevOps, with a current focus on DevOps practices. My primary areas of expertise are JavaScript (NodeJS, ReactJS), .NET (C#),
+Docker, Kubernetes, and shell scripting. I work with each of the three major Operating Systems, preferably Linux.
 
 Feel free to reach out at erjan@anjack.io if you'd like to collaborate or need some
 advice. I’m always open to discussing tech, contributing to projects, or simply sharing ideas.
