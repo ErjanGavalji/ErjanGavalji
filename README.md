@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ErjanGavalji)
 
-I'm happy to help if you need assistance. I have a 20+ years of background in software development and
+I'm happy to help if you need assistance. I offer a 20+ years of background in software development and
 DevOps, with a current focus on DevOps practices. My primary areas of expertise are JavaScript (NodeJS, ReactJS), .NET (C#),
 Docker, Kubernetes, and shell scripting. I work with each of the three major Operating Systems, preferably Linux.
 
